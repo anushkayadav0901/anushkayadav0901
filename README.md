@@ -131,8 +131,11 @@ AI-powered, browser-based OSINT assistant that detects scams, phishing, fake con
 ---
 
 ### 💫 Profile Views
-[![](https://visitcount.itsvg.in/api?id=anushkayadav0901&icon=6&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=anushkayadav0901&color=blueviolet&style=flat-square&label=Profile+Views)
 
-### 🌟 Show some ❤️ by starring some repositories!
 
 </div>
+<p align="center">
+  <b>Thanks for visiting my profile!</b> <br/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+</p>
