@@ -106,15 +106,15 @@ Welcome to my GitHub! I'm a CSE student at IGDTUW passionate about web developme
 AI-powered web platform for early breast cancer screening via image and sweat biomarker analysis, with a 3D interactive model for visual learning. Offers non-invasive screening and personalized reports.  
 🔗 [Live Demo](https://drive.google.com/file/d/1zBXAs_kdUNp2IiCaSiD-_vhXlfHBzFUt/view?usp=drivesdk)
 
-### 🚀 [VYOMI – India's Space Knowledge AI Assistant](https://github.com/anushkayadav0901/vyomi-space-ai)
+### 🚀 [VYOMI – India's Space Knowledge AI Assistant](https://github.com/anushkayadav0901/MosdacBot_Final)
 **Tech Stack:** Python • Streamlit • NLP  
 AI-powered conversational assistant for India's MOSDAC space data portal. Simplifies navigation, answers complex queries, and makes space knowledge accessible through natural language.
 
-### 🎮 [Watrons – Water Warriors](https://github.com/anushkayadav0901/watrons-water-game)
+### 🎮 [Watrons – Water Warriors](https://github.com/anushkayadav0901/watrons)
 **Tech Stack:** Roblox Studio • Lua  
 A 3D Roblox game teaching water conservation to kids through puzzles, battles, and NPC dialogues. Players solve pipe puzzles, fight water-wasting villains, and learn conservation tips.
 
-### 🛡️ [SYPHER – Your Screen's Smartest Watchdog](https://github.com/anushkayadav0901/sypher-security-ai)
+### 🛡️ [SYPHER – Your Screen's Smartest Watchdog](https://github.com/anushkayadav0901/SypherFinal)
 **Tech Stack:** React • Hugging Face Transformers • IPFS • Browser APIs  
 AI-powered, browser-based OSINT assistant that detects scams, phishing, fake content, and manipulated media in real time. Features sentiment analysis and deepfake detection.
 
