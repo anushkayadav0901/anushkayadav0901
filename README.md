@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Anushka Yadav
+# Hi there! 👋 I'm Anushka Yadav <img align="right" alt="Professional Woman GIF" height="160px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 Welcome to my GitHub! I'm a CSE student at IGDTUW passionate about web development, mobile app development, game development, 3D modeling, AR/VR, and Web3 technologies.
 
@@ -9,6 +9,10 @@ Welcome to my GitHub! I'm a CSE student at IGDTUW passionate about web developme
 - 🥇 Won 6+ hackathons in Web3, UI/UX, and Mobile App development
 - 🎯 Passionate about AR/VR development and immersive experiences
 - 🌱 Currently exploring blockchain technology and smart contracts
+
+<br />
+<br />
+
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/anushka-yadav-060291310)
