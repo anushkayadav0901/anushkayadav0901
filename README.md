@@ -45,20 +45,64 @@ Welcome to my GitHub! I'm a CSE student at IGDTUW passionate about web developme
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=anushkayadav0901&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkayadav0901&theme=tokyonight&hide_border=true" height="200"/>
-</p>
+<div align="center">
+  
+### 🔥 GitHub Statistics
+  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=anushkayadav0901&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkayadav0901&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" width="400"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=anushkayadav0901&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="200"/>
-</p>
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkayadav0901&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117" alt="Top Languages" width="500"/>
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkayadav0901&theme=redical&bg_color=0d1117&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anushkayadav0901&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anushkayadav0901&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anushkayadav0901&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies"/>
+</div>
+
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=anushkayadav0901&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="600"/>
+</div>
+
+## ⚡ Additional GitHub Metrics
+
+<div align="center">
+  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anushkayadav0901&theme=radical&hide_border=true&bg_color=0d1117" alt="Coding Time Stats" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushkayadav0901&theme=radical" alt="Profile Summary" width="400"/>
+    </td>
+  </tr>
+</table>
+
+### 🎯 GitHub Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anushkayadav0901&theme=radical" alt="Repos per Language" width="300"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anushkayadav0901&theme=radical" alt="Most Commit Language" width="300"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anushkayadav0901&theme=radical" alt="Stats" width="300"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anushkayadav0901&theme=radical&utcOffset=5.30" alt="Productive Time" width="300"/>
+
+</div>
 
 ## 📌 Pinned Projects
 
@@ -87,7 +131,13 @@ AI-powered, browser-based OSINT assistant that detects scams, phishing, fake con
 - **🎨 HandTrack Paint** - Paint with hand gestures using computer vision and AI
 - **🍔 Web3 Food Management Platform** - 1st place winner in Web3 hackathon (50+ teams)
 
-
+<div align="center">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anushkayadav0901&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 💫 Profile Views
+[![](https://visitcount.itsvg.in/api?id=anushkayadav0901&icon=6&color=6)](https://visitcount.itsvg.in)
+
+### 🌟 Show some ❤️ by starring some repositories!
+
+</div>
