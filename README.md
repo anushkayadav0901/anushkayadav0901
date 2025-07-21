@@ -47,18 +47,11 @@ Welcome to my GitHub! I'm a CSE student at IGDTUW passionate about web developme
 
 <div align="center">
   
-### 🔥 GitHub Statistics
-  
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=anushkayadav0901&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" width="400"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkayadav0901&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" width="400"/>
-    </td>
-  </tr>
-</table>
+<!-- GitHub Stats - Main Instance -->
+<img src="https://github-readme-stats.vercel.app/api?username=anushkayadav0901&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
+
+<!-- Streak Stats - Working Alternative -->
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=anushkayadav0901&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 
 ### 💻 Most Used Languages
 
@@ -78,7 +71,7 @@ Welcome to my GitHub! I'm a CSE student at IGDTUW passionate about web developme
 ## 🔝 Top Contributed Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anushkayadav0901&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="600"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=anushkayadav0901&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="600"/>
 </div>
 
 ## ⚡ Additional GitHub Metrics
@@ -88,19 +81,21 @@ Welcome to my GitHub! I'm a CSE student at IGDTUW passionate about web developme
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anushkayadav0901&theme=radical&hide_border=true&bg_color=0d1117" alt="Coding Time Stats" width="400"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushkayadav0901&theme=radical" alt="Profile Summary" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushkayadav0901&theme=radical" alt="Profile Summary" width="400"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anushkayadav0901&theme=radical" alt="Repos per Language" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anushkayadav0901&theme=radical" alt="Most Commit Language" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anushkayadav0901&theme=radical&utcOffset=5.30" alt="Productive Time" width="400"/>
     </td>
   </tr>
 </table>
-
-### 🎯 GitHub Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anushkayadav0901&theme=radical" alt="Repos per Language" width="300"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anushkayadav0901&theme=radical" alt="Most Commit Language" width="300"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anushkayadav0901&theme=radical" alt="Stats" width="300"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anushkayadav0901&theme=radical&utcOffset=5.30" alt="Productive Time" width="300"/>
 
 </div>
 
