@@ -43,10 +43,16 @@ Welcome to my GitHub! I'm a CSE student at IGDTUW passionate about web developme
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=anushkayadav0901&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anushkayadav0901&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkayadav0901&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=anushkayadav0901&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkayadav0901&theme=tokyonight&hide_border=true" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api/top-langs/?username=anushkayadav0901&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="200"/>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anushkayadav0901&theme=radical&no-frame=false&no-bg=true&margin-w=4)
