@@ -6,9 +6,10 @@ Welcome to my GitHub! I'm a CSE student at IGDTUW passionate about web developme
 - 🎓 2nd Year B.Tech CSE student at Indira Gandhi Delhi Technical University for Women
 - 🎨 3D Artist & Blender enthusiast
 - 📱 Mobile App & Web Developer
-- 🥇 Won 6+ hackathons in Web3, UI/UX, and Mobile App development
+- 🥇 Won 5 hackathons 
 - 🎯 Passionate about AR/VR development and immersive experiences
 - 🌱 Currently exploring blockchain technology and smart contracts
+- 📚 Always hungry for knowledge — you’ll often find me diving into something new to learn or build!
 
 <br />
 <br />
