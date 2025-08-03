@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Anushka Yadav <img align="right" alt="Professional Woman GIF" height="160px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 Welcome to my GitHub! I'm a CSE student at IGDTUW passionate about web development, mobile app development, game development, 3D modeling, AR/VR, and Web3 technologies.
-## My portfolio -https://anushkaportfolio0901.netlify.app/
+## My portfolio website -https://anushkaportfolio0901.netlify.app/
 
 ## 🚀 About Me
 - 🎓 2nd Year B.Tech CSE student at Indira Gandhi Delhi Technical University for Women
