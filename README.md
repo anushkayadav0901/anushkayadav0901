@@ -5,7 +5,8 @@ Welcome to my GitHub! I'm a CSE student at IGDTUW passionate about web developme
 
 ## 🚀 About Me
 - 🎓 3rd Year B.Tech CSE student at Indira Gandhi Delhi Technical University for Women
--  ICPC Asia West Regionalist ’25
+- 🌍 Top 14 @ Google Solution Challenge '26 out of 90,000+ global submissions
+- ⚔️ ICPC Asia West Regionalist '25
 - 🥇 Won 7 hackathons
 - 🏬Flipkart GWC 7.0 Scholar
 - 🎨 3D Artist & Blender enthusiast
